@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "generator": "node tools/generator.js"
   },
   "dependencies": {
     "next": "14.2.5",
