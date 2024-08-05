@@ -1,0 +1,9 @@
+$class: '.button';
+
+#{$class} {
+  border: 0;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
