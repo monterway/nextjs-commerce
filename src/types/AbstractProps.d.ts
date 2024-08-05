@@ -1,5 +1,5 @@
 interface AbstractProps {
-    className?: string;
+  className?: string;
 }
 
 export default AbstractProps;

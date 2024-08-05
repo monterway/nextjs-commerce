@@ -1,7 +1,7 @@
 'use client';
 
-import React from "react";
-import AbstractProps from "@/types/AbstractProps";
+import React from 'react';
+import AbstractProps from '@/types/AbstractProps';
 import './index.scss';
 
 export interface __componentName__(pascalCase)Props extends AbstractProps {}
